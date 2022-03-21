@@ -5,9 +5,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import BlogPost from "./container/BlogPost/BlogPost"
+// import BlogPost from "./container/BlogPost/BlogPost"
+import MahasiswaBlogPost from "./container/MahasiswaBlogPost/MahasiswaBlogPost"
 
-ReactDOM.render(<BlogPost />, document.getElementById('content'));
+ReactDOM.render(<MahasiswaBlogPost />, document.getElementById('content'));
 
 
 // If you want to start measuring performance in your app, pass a function
