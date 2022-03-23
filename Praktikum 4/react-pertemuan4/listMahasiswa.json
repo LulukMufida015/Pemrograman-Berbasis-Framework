@@ -17,22 +17,22 @@
       "status": "lulus"
     },
     {
-      "id": 1647788558603,
-      "NIM": "123",
+      "id": 1648023161875,
+      "NIM": "1941720052",
       "nama": "Luluk Mufida",
-      "alamat": "MALANG",
-      "hp": "0897",
+      "alamat": "Cemandi no. 655 Bangil",
+      "hp": "085232818530",
       "angkatan": "2019",
-      "status": "aktif"
+      "status": "Aktif"
     },
     {
-      "id": 1647791630529,
-      "NIM": "1209831",
+      "id": 1648023243777,
+      "NIM": "1941720053",
       "nama": "Ainur Rosidah",
-      "alamat": "Bangil",
-      "hp": "08428",
-      "angkatan": "2021",
-      "status": "aktif"
+      "alamat": "Cemandi no. 666 Bangil",
+      "hp": "085232777",
+      "angkatan": "2020",
+      "status": "Cuti"
     }
   ]
 }

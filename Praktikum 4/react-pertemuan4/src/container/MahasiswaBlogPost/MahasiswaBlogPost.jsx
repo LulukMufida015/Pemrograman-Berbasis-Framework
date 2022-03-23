@@ -102,7 +102,7 @@ class MahasiswaBlogPost extends Component {
                                 <select className="form-control" name="status" id="status" onChange={this.handleTambahArtikel}>
                                     <option value="Aktif">Aktif</option>
                                     <option value="Lulus">Lulus</option>
-                                    <option value="Lulus">Cuti</option>
+                                    <option value="Cuti">Cuti</option>
                                 </select>
                             </div>
                         </div>
