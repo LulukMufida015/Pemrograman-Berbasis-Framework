@@ -67,11 +67,14 @@ body, ul, li, p, a, label, input, div {
 .bg-light { background-color: #e9eef5 !important;}
 .bg-black { background-color: #1d242d !important;}
 .bg-success { background-color: #59ab6e !important;}
-.bg-grey{background-color: darkgrey;}
+.bg-grey{background-color: #474e5d;}
 .btn-success {
   background-color: #59ab6e !important;
   border-color: #56ae6c !important;
 }
+.btn-orange{
+  background-color: #E9967A !important;
+  border-color: #E9967A !important;}
 .pagination .page-link:hover {color: #000;}
 .pagination .page-link:hover, .pagination .page-link.active {
   background-color: #69bb7e;
@@ -200,3 +203,23 @@ body, ul, li, p, a, label, input, div {
 /* Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {}
 
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}

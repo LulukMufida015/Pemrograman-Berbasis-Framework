@@ -135,7 +135,7 @@ function AuthButton() {
                         <a class="navbar-sm-brand text-light text-decoration-none" href="#">Welcome Luluk Mufida</a>
 
                     </div>
-                    <button className="btn btn-warning"
+                    <button className="btn btn-orange"
                         onClick={() => {
                             fakeAuth.signout(() => history.push(from));
                         }}
@@ -262,56 +262,12 @@ function PublicPage() {
 
 function Contact() {
     return (
-
-
-        <div class="bg-dark" id="tempaltemo_footer">
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-md-4 pt-5">
-                        <h2 class="h2 text-grey border-bottom pb-3 border-light logo">Luxury Shop</h2>
-                        <ul class="list-unstyled text-light footer-link-list">
-                            <li>
-                                <i class="fas fa-map-marker-alt fa-fw"></i>
-                                India
-                            </li>
-                            <li>
-                                <i class="fa fa-phone fa-fw"></i>
-                                <a class="text-decoration-none" href="#">000-000-0000</a>
-                            </li>
-                            <li>
-                                <i class="fa fa-envelope fa-fw"></i>
-                                <a class="text-decoration-none" href="#">info@company.com</a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="col-md-4 pt-5">
-                        <h2 class="h2 text-light border-bottom pb-3 border-light">Products</h2>
-                        <ul class="list-unstyled text-light footer-link-list">
-                            <li><a class="text-decoration-none" href="#">Luxury</a></li>
-                            <li><a class="text-decoration-none" href="#">Sport Wear</a></li>
-                            <li><a class="text-decoration-none" href="#">Men's Shoes</a></li>
-                            <li><a class="text-decoration-none" href="#">Women's Shoes</a></li>
-                            <li><a class="text-decoration-none" href="#">Popular Dress</a></li>
-                            <li><a class="text-decoration-none" href="#">Gym Accessories</a></li>
-                            <li><a class="text-decoration-none" href="#">Sport Shoes</a></li>
-                        </ul>
-                    </div>
-
-                    <div class="col-md-4 pt-5">
-                        <h2 class="h2 text-light border-bottom pb-3 border-light">Further Info</h2>
-                        <ul class="list-unstyled text-light footer-link-list">
-                            <li><a class="text-decoration-none" href="#">Home</a></li>
-                            <li><a class="text-decoration-none" href="#">About Us</a></li>
-                            <li><a class="text-decoration-none" href="#">Shop Locations</a></li>
-                            <li><a class="text-decoration-none" href="#">FAQs</a></li>
-                            <li><a class="text-decoration-none" href="#">Contact</a></li>
-                        </ul>
-                    </div>
-
-                </div>
-
+        <>
+            <div class="about-section">
+                <h1>About Us Luxury Shop</h1>
+                <p>Luxury merupakan brand terkenal dari Jawa Timur sejak tahun 2020 yang didirikan oleh Luluk Mufida.</p>
+                <p>Sejarah dari adanya brand luxury berawal dari artis ternama di Indonesia dengan nama Nagita Slavina yang gemar memiliki outfit baju elegan dan simpel namun sangat berkelas dan berkualitas.</p>
+                <br></br>
                 <div class="row text-light mb-4">
                     <div class="col-12 mb-3">
                         <div class="w-100 my-3 border-top border-light"></div>
@@ -336,17 +292,17 @@ function Contact() {
                         <label class="sr-only" for="subscribeEmail">Email address</label>
                         <div class="input-group mb-2">
                             <input type="text" class="form-control bg-dark border-light" id="subscribeEmail" placeholder="Email address" />
-                            <div class="input-group-text btn-success text-light">Subscribe</div>
+                            <div class="input-group-text btn-orange text-light">Subscribe</div>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="w-100 bg-black py-3">
+            <div class="w-100 bg-light py-3">
                 <div class="container">
                     <div class="row pt-2">
                         <div class="col-12">
-                            <p class="text-left text-light">
+                            <p class="text-left text-grey">
                                 Copyright &copy; 2021 Company Name
                                 | Designed by <a rel="sponsored" href="#" target="_blank">Jassa</a>
                             </p>
@@ -354,8 +310,7 @@ function Contact() {
                     </div>
                 </div>
             </div>
-
-        </div>
+        </>
     );
 }
 
@@ -375,7 +330,7 @@ function LoginPage() {
     return (
         <center><div className="container">
             <p>You must log in to view the page at {from.pathname}</p>
-            <button className="btn btn-warning" onClick={login}>Log in</button>
+            <button className="btn btn-orange" onClick={login}>Log in</button>
             <br></br>
             <br></br>
         </div></center>
