@@ -1,0 +1,100 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2021/05/tv-lg-oled-540x420.jpg",
+            "nama": "LG C1 OLED Series 48 Inch",
+            "harga": 20000000,
+            "stok": 15,
+            "deskripsi": "Generasi terbaru TV LED LG ini juga dilengkapi dengan LG Alpha a9 Gen. 4. Proses yang mampu meningkatkan tampilan gambar lebih jernih dan detail."
+        },
+        {
+            "id": 2,
+            "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2020/07/1.-Samsung-LED-Curved-TV-49-Inch-420x420.jpg",
+            "nama": "Samsung LED Curved TV 49 Inch",
+            "harga": 15000000,
+            "stok": 25,
+            "deskripsi": "Dengan desain yang melengkung sempurna, tipe TV LED terbaik dari Samsung ini memberikan kenyamanan menonton dari berbagai sisi."
+        },
+        {
+            "id": 3,
+            "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2020/07/2.-Sony-LED-TV-32-Inch-420x420.jpg",
+            "nama": "Sony LED TV 32 Inch",
+            "harga": 4800000,
+            "stok": 17,
+            "deskripsi": "Sony LED TV 32″ KLV-32R302C mampu menghasilkan gambar dengan kualitas jernih, detil, dan tajam berkat layar 32 inci yang beresolusi 1.366 x 768 piksel."
+        },
+        {
+            "id": 4,
+            "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2020/07/3.-Sony-LED-TV-48-Inch-420x420.jpg",
+            "nama": "Sony LED TV 48 Inch",
+            "harga": 10198500,
+            "stok": 29,
+            "deskripsi": "Smart TV Full HD ini dilengkapi dengan teknologi X-Reality PRO Picture yang mampu mengoptimalkan resolusi yang ditampilkan serta dapat melakukan streaming."
+        },
+        {
+            "id": 5,
+            "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2020/07/4.-LG-LED-TV-55-Inch-420x420.jpg",
+            "nama": "LG LED TV 55 Inch",
+            "harga": 18375000,
+            "stok": 26,
+            "deskripsi": "LG LED TV 55″ 55UJ632T adalah model televisi berteknologi LED dan fitur pintar terbaik dari LG berukuran 55 inci yang memiliki resolusi 4K."
+        },
+        {
+            "id": 6,
+            "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2020/07/5.-Panasonic-LED-TV-32-Inch-420x420.jpg",
+            "nama": "Panasonic LED TV 32 Inch",
+            "harga": 3375000,
+            "stok": 28,
+            "deskripsi": "Panasonic LED TV 32″ TH-32E302 memiliki ukuran layar 32 inci yang memiliki resolusi 1.366 x 768 piksel. Sehingga mampu memberikan kulitas gambar yang baik."
+        },
+        {
+            "id": 7,
+            "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2020/07/6.-Sharp-LED-TV-32-Inch-420x420.jpg",
+            "nama": "Sharp LED TV 32 Inch",
+            "harga": 3298500,
+            "stok": 20,
+            "deskripsi": "Produk ini terbukti mampu menampilkan visual jernih dan tajam, serta warna yang begitu nyata. Membawamu merasa ‘menyatu’ dengan setiap tayangan."
+        },
+        {
+            "id": 8,
+            "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2020/07/7.-Polytron-LED-TV-20-Inch-420x420.jpg",
+            "nama": "Polytron LED TV 20 Inch",
+            "harga": 2098500,
+            "stok": 18,
+            "deskripsi": "Sebagai salah satu brand Televisi terbaik yang menjadi favorit, Polytron juga memiliki varian TV LED terbaik."
+        },
+        {
+            "id": 9,
+            "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2020/07/8.-Changhong-LED-TV-32-Inch-420x420.jpg",
+            "nama": "Changhong LED TV 32 Inch",
+            "harga": 4543500,
+            "stok": 10,
+            "deskripsi": "Changhong Smart LED TV 32″ 32D3000i hadir dengan teknologi Android terbaru dan langsung menjadi salah satu merk TV LED favorit."
+        },
+        {
+            "id": 10,
+            "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2020/07/9.-Philips-LED-TV-32-Inch-420x420.jpg",
+            "nama": "Philips LED TV 32 Inch",
+            "harga": 3148500,
+            "stok": 11,
+            "deskripsi": "Brand TV LED terbaik selanjutnya ini memungkinkanmu menikmati foto, memutar video dan memainkan musik sekaligus."
+        },
+        {
+            "id": 11,
+            "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2020/07/10.-Akari-LED-TV-20-Inch-420x420.jpg",
+            "nama": "Akari LED TV 20 Inch",
+            "harga": 1.875000,
+            "stok": 33,
+            "deskripsi": "Akari LED 20K88 merupakan salah satu merk televisi LED terbaik berharga murah keluaran Akari yang memiliki ukuran layar 20 inci dengan resolusi 1.366 x 768 piksel."
+        },
+        {
+            "id": 12,
+            "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2020/07/11.-Coocaa-LED-TV-24-Inch-420x420.jpeg",
+            "nama": "Coocaa LED TV 24 Inch",
+            "harga": 2152500,
+            "stok": 32,
+            "deskripsi": "Coocaa LED TV 24″ 24W1900 merupakan TV LED keluara Coocaa yang memiliki ukuran layar 24 inci dengan resolusi Full HD."
+        }
+    ]
+}

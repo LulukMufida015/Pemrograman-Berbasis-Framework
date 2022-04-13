@@ -5,7 +5,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-// import BlogPost from "./container/BlogPost/BlogPost"
+import BlogPost from "./container/BlogPost/BlogPost"
 import MahasiswaBlogPost from "./container/MahasiswaBlogPost/MahasiswaBlogPost"
 
 ReactDOM.render(<MahasiswaBlogPost />, document.getElementById('content'));
