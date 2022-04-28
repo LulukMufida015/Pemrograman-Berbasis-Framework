@@ -1,22 +1,6 @@
 {
   "cart": [
     {
-      "id": 1649862184225,
-      "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2021/05/tv-lg-oled-540x420.jpg",
-      "nama": "LG C1 OLED Series 48 Inch",
-      "harga": 20000000,
-      "stok": 5,
-      "productId": 1
-    },
-    {
-      "id": 1649864781308,
-      "productId": 1,
-      "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2021/05/tv-lg-oled-540x420.jpg",
-      "nama": "LG C1 OLED Series 48 Inch",
-      "harga": 20000000,
-      "qty": 1
-    },
-    {
       "id": 1649864783446,
       "productId": 2,
       "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2020/07/1.-Samsung-LED-Curved-TV-49-Inch-420x420.jpg",
@@ -33,12 +17,13 @@
       "productId": 2
     },
     {
-      "id": 1649870598345,
-      "productId": 1,
-      "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2021/05/tv-lg-oled-540x420.jpg",
-      "nama": "LG C1 OLED Series 48 Inch",
-      "harga": 20000000,
-      "qty": 2
+      "id": 1649915867310,
+      "image": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2020/07/1.-Samsung-LED-Curved-TV-49-Inch-420x420.jpg",
+      "nama": "Samsung LED Curved TV 49 Inch",
+      "harga": 15000000,
+      "stok": 25,
+      "deskripsi": "Dengan desain yang melengkung sempurna, tipe TV LED terbaik dari Samsung ini memberikan kenyamanan menonton dari berbagai sisi.",
+      "productId": 2
     }
   ]
 }
